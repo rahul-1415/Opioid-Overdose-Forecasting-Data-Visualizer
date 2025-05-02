@@ -1,0 +1,15 @@
+# Ignore Python artifacts
+*.pyc
+__pycache__/
+
+# Ignore virtual environments
+venv/
+backend/venv/
+
+# Node-related (if frontend exists)
+node_modules/
+dist/
+
+# Environment files
+.env
+
